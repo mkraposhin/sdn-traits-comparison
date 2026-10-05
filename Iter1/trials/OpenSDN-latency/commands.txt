@@ -1,0 +1,229 @@
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ sudo ./iperf-owamp-multi-pair-bench.sh 1 10 10 0.25G
+[sudo] password for matvey-l: 
+== Starting persistent iperf UDP servers and owampd (kept up across all 10 trials) ==
+== Running 10 trials: duration=10s load=0.25GGbit/s owamp=90 probes @ mean 0.1s (Poisson) ==
+-- Trial 1 --
+-- Trial 2 --
+-- Trial 3 --
+-- Trial 4 --
+-- Trial 5 --
+-- Trial 6 --
+-- Trial 7 --
+-- Trial 8 --
+-- Trial 9 --
+-- Trial 10 --
+== Stopping persistent iperf servers and owampd ==
+Done.
+Raw per-trial logs, throughput_summary.txt and latency_summary.txt are in: ./bench-owamp-20261004-174114
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ 
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ sudo ./iperf-owamp-multi-pair-bench.sh 1 10 10 0.5G
+== Starting persistent iperf UDP servers and owampd (kept up across all 10 trials) ==
+== Running 10 trials: duration=10s load=0.5GGbit/s owamp=90 probes @ mean 0.1s (Poisson) ==
+-- Trial 1 --
+-- Trial 2 --
+-- Trial 3 --
+-- Trial 4 --
+-- Trial 5 --
+-- Trial 6 --
+-- Trial 7 --
+-- Trial 8 --
+-- Trial 9 --
+-- Trial 10 --
+== Stopping persistent iperf servers and owampd ==
+Done.
+Raw per-trial logs, throughput_summary.txt and latency_summary.txt are in: ./bench-owamp-20261004-174558
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ sudo ./iperf-owamp-multi-pair-bench.sh 1 10 10 0.75G
+== Starting persistent iperf UDP servers and owampd (kept up across all 10 trials) ==
+== Running 10 trials: duration=10s load=0.75GGbit/s owamp=90 probes @ mean 0.1s (Poisson) ==
+-- Trial 1 --
+-- Trial 2 --
+-- Trial 3 --
+-- Trial 4 --
+-- Trial 5 --
+-- Trial 6 --
+-- Trial 7 --
+-- Trial 8 --
+-- Trial 9 --
+-- Trial 10 --
+== Stopping persistent iperf servers and owampd ==
+Done.
+Raw per-trial logs, throughput_summary.txt and latency_summary.txt are in: ./bench-owamp-20261004-174839
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ 
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ sudo ./iperf-owamp-multi-pair-bench.sh 1 10 10 1.0G
+== Starting persistent iperf UDP servers and owampd (kept up across all 10 trials) ==
+== Running 10 trials: duration=10s load=1.0GGbit/s owamp=90 probes @ mean 0.1s (Poisson) ==
+-- Trial 1 --
+-- Trial 2 --
+-- Trial 3 --
+-- Trial 4 --
+-- Trial 5 --
+-- Trial 6 --
+-- Trial 7 --
+-- Trial 8 --
+-- Trial 9 --
+-- Trial 10 --
+== Stopping persistent iperf servers and owampd ==
+Done.
+Raw per-trial logs, throughput_summary.txt and latency_summary.txt are in: ./bench-owamp-20261004-175122
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ sudo ./iperf-owamp-multi-pair-bench.sh 1 10 10 1.25G
+== Starting persistent iperf UDP servers and owampd (kept up across all 10 trials) ==
+== Running 10 trials: duration=10s load=1.25GGbit/s owamp=90 probes @ mean 0.1s (Poisson) ==
+-- Trial 1 --
+-- Trial 2 --
+-- Trial 3 --
+-- Trial 4 --
+-- Trial 5 --
+-- Trial 6 --
+-- Trial 7 --
+-- Trial 8 --
+-- Trial 9 --
+-- Trial 10 --
+== Stopping persistent iperf servers and owampd ==
+Done.
+Raw per-trial logs, throughput_summary.txt and latency_summary.txt are in: ./bench-owamp-20261004-175356
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ sudo ./iperf-owamp-multi-pair-bench.sh 1 10 10 1.5G
+== Starting persistent iperf UDP servers and owampd (kept up across all 10 trials) ==
+== Running 10 trials: duration=10s load=1.5GGbit/s owamp=90 probes @ mean 0.1s (Poisson) ==
+-- Trial 1 --
+-- Trial 2 --
+-- Trial 3 --
+-- Trial 4 --
+-- Trial 5 --
+-- Trial 6 --
+-- Trial 7 --
+-- Trial 8 --
+-- Trial 9 --
+-- Trial 10 --
+== Stopping persistent iperf servers and owampd ==
+Done.
+Raw per-trial logs, throughput_summary.txt and latency_summary.txt are in: ./bench-owamp-20261004-175636
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ sudo ./iperf-owamp-multi-pair-bench.sh 2 10 10 1.0G
+== Starting persistent iperf UDP servers and owampd (kept up across all 10 trials) ==
+== Running 10 trials: duration=10s load=1.0GGbit/s owamp=90 probes @ mean 0.1s (Poisson) ==
+-- Trial 1 --
+-- Trial 2 --
+-- Trial 3 --
+-- Trial 4 --
+-- Trial 5 --
+-- Trial 6 --
+-- Trial 7 --
+-- Trial 8 --
+-- Trial 9 --
+-- Trial 10 --
+== Stopping persistent iperf servers and owampd ==
+Done.
+Raw per-trial logs, throughput_summary.txt and latency_summary.txt are in: ./bench-owamp-20261004-175921
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ sudo ./iperf-owamp-multi-pair-bench.sh 3 10 10 1.0G
+== Starting persistent iperf UDP servers and owampd (kept up across all 10 trials) ==
+== Running 10 trials: duration=10s load=1.0GGbit/s owamp=90 probes @ mean 0.1s (Poisson) ==
+-- Trial 1 --
+-- Trial 2 --
+-- Trial 3 --
+-- Trial 4 --
+-- Trial 5 --
+-- Trial 6 --
+-- Trial 7 --
+-- Trial 8 --
+-- Trial 9 --
+-- Trial 10 --
+== Stopping persistent iperf servers and owampd ==
+Done.
+Raw per-trial logs, throughput_summary.txt and latency_summary.txt are in: ./bench-owamp-20261004-180325
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ sudo ./iperf-owamp-multi-pair-bench.sh 4 10 10 1.0G
+== Starting persistent iperf UDP servers and owampd (kept up across all 10 trials) ==
+== Running 10 trials: duration=10s load=1.0GGbit/s owamp=90 probes @ mean 0.1s (Poisson) ==
+-- Trial 1 --
+-- Trial 2 --
+-- Trial 3 --
+-- Trial 4 --
+-- Trial 5 --
+-- Trial 6 --
+-- Trial 7 --
+-- Trial 8 --
+-- Trial 9 --
+-- Trial 10 --
+== Stopping persistent iperf servers and owampd ==
+Done.
+Raw per-trial logs, throughput_summary.txt and latency_summary.txt are in: ./bench-owamp-20261004-180612
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ sudo ./iperf-owamp-multi-pair-bench.sh 5 10 10 1.0G
+== Starting persistent iperf UDP servers and owampd (kept up across all 10 trials) ==
+== Running 10 trials: duration=10s load=1.0GGbit/s owamp=90 probes @ mean 0.1s (Poisson) ==
+-- Trial 1 --
+-- Trial 2 --
+-- Trial 3 --
+-- Trial 4 --
+-- Trial 5 --
+-- Trial 6 --
+-- Trial 7 --
+-- Trial 8 --
+-- Trial 9 --
+-- Trial 10 --
+== Stopping persistent iperf servers and owampd ==
+Done.
+Raw per-trial logs, throughput_summary.txt and latency_summary.txt are in: ./bench-owamp-20261004-180952
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ sudo ./iperf-owamp-multi-pair-bench.sh 6 10 10 1.0G
+== Starting persistent iperf UDP servers and owampd (kept up across all 10 trials) ==
+== Running 10 trials: duration=10s load=1.0GGbit/s owamp=90 probes @ mean 0.1s (Poisson) ==
+-- Trial 1 --
+-- Trial 2 --
+-- Trial 3 --
+-- Trial 4 --
+-- Trial 5 --
+-- Trial 6 --
+-- Trial 7 --
+-- Trial 8 --
+-- Trial 9 --
+-- Trial 10 --
+== Stopping persistent iperf servers and owampd ==
+Done.
+Raw per-trial logs, throughput_summary.txt and latency_summary.txt are in: ./bench-owamp-20261004-181256
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ sudo ./iperf-owamp-multi-pair-bench.sh 7 10 10 1.0G
+[sudo] password for matvey-l: 
+== Starting persistent iperf UDP servers and owampd (kept up across all 10 trials) ==
+== Running 10 trials: duration=10s load=1.0GGbit/s owamp=90 probes @ mean 0.1s (Poisson) ==
+-- Trial 1 --
+-- Trial 2 --
+-- Trial 3 --
+-- Trial 4 --
+-- Trial 5 --
+-- Trial 6 --
+-- Trial 7 --
+-- Trial 8 --
+-- Trial 9 --
+-- Trial 10 --
+== Stopping persistent iperf servers and owampd ==
+Done.
+Raw per-trial logs, throughput_summary.txt and latency_summary.txt are in: ./bench-owamp-20261004-223301
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ sudo ./iperf-owamp-multi-pair-bench.sh 8 10 10 1.0G
+== Starting persistent iperf UDP servers and owampd (kept up across all 10 trials) ==
+== Running 10 trials: duration=10s load=1.0GGbit/s owamp=90 probes @ mean 0.1s (Poisson) ==
+-- Trial 1 --
+-- Trial 2 --
+-- Trial 3 --
+-- Trial 4 --
+-- Trial 5 --
+-- Trial 6 --
+-- Trial 7 --
+-- Trial 8 --
+-- Trial 9 --
+-- Trial 10 --
+== Stopping persistent iperf servers and owampd ==
+Done.
+Raw per-trial logs, throughput_summary.txt and latency_summary.txt are in: ./bench-owamp-20261004-223600
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ 
+matvey-l@m-lenovo:/data/Yandex.Disk/OpenSDN/Scalability/tests/trials$ sudo ./iperf-owamp-multi-pair-bench.sh 1 10 10 1.0G
+== Starting persistent iperf UDP servers and owampd (kept up across all 10 trials) ==
+== Running 10 trials: duration=10s load=1.0GGbit/s owamp=90 probes @ mean 0.1s (Poisson) ==
+-- Trial 1 --
+-- Trial 2 --
+-- Trial 3 --
+-- Trial 4 --
+-- Trial 5 --
+-- Trial 6 --
+-- Trial 7 --
+-- Trial 8 --
+-- Trial 9 --
+-- Trial 10 --
+== Stopping persistent iperf servers and owampd ==
+Done.
+Raw per-trial logs, throughput_summary.txt and latency_summary.txt are in: ./bench-owamp-20261004-223942

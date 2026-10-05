@@ -1,0 +1,28 @@
+------------------------------------------------------------
+Server listening on UDP port 25600
+UDP buffer size: 25.0 MByte (default)
+------------------------------------------------------------
+[  1] local 10.1.3.22 port 25600 connected with 10.1.3.11 port 52589
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.0000-10.0004 sec   922 MBytes   774 Mbits/sec   0.000 ms 0/657804 (0%)
+[  2] local 10.1.3.22 port 25600 connected with 10.1.3.11 port 38360
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  2] 0.0000-9.9984 sec   899 MBytes   754 Mbits/sec   0.005 ms 0/641305 (0%)
+[  3] local 10.1.3.22 port 25600 connected with 10.1.3.11 port 54950
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-10.0003 sec   895 MBytes   751 Mbits/sec   0.001 ms 0/638367 (0%)
+[  4] local 10.1.3.22 port 25600 connected with 10.1.3.11 port 60106
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-9.9982 sec   921 MBytes   772 Mbits/sec   0.001 ms 0/656701 (0%)
+[  5] local 10.1.3.22 port 25600 connected with 10.1.3.11 port 60539
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  5] 0.0000-9.9993 sec   902 MBytes   756 Mbits/sec   0.000 ms 0/643087 (0%)
+[  6] local 10.1.3.22 port 25600 connected with 10.1.3.11 port 35688
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  6] 0.0000-10.0000 sec   878 MBytes   736 Mbits/sec   0.001 ms 0/626023 (0%)
+[  7] local 10.1.3.22 port 25600 connected with 10.1.3.11 port 38231
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  7] 0.0000-10.0009 sec   856 MBytes   718 Mbits/sec   0.000 ms 0/610306 (0%)
+[  8] local 10.1.3.22 port 25600 connected with 10.1.3.11 port 54032
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  8] 0.0000-9.9984 sec   888 MBytes   745 Mbits/sec   0.000 ms 0/633326 (0%)

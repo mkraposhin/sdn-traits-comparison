@@ -1,0 +1,31 @@
+------------------------------------------------------------
+Server listening on UDP port 25600
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 10.1.5.22 port 25600 connected with 10.1.5.11 port 43746
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.0000-9.9999 sec   303 MBytes   254 Mbits/sec   0.009 ms 35173/251134 (14%)
+[  2] local 10.1.5.22 port 25600 connected with 10.1.5.11 port 51117
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  2] 0.0000-9.9974 sec   308 MBytes   258 Mbits/sec   0.009 ms 36759/256490 (14%)
+[  3] local 10.1.5.22 port 25600 connected with 10.1.5.11 port 33026
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-9.9962 sec   320 MBytes   268 Mbits/sec   0.010 ms 21600/249745 (8.6%)
+[  4] local 10.1.5.22 port 25600 connected with 10.1.5.11 port 55294
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-10.0000 sec   294 MBytes   247 Mbits/sec   0.013 ms 25910/235924 (11%)
+[  5] local 10.1.5.22 port 25600 connected with 10.1.5.11 port 60211
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  5] 0.0000-10.0002 sec   312 MBytes   262 Mbits/sec   0.012 ms 21932/244659 (9%)
+[  6] local 10.1.5.22 port 25600 connected with 10.1.5.11 port 39136
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  6] 0.0000-10.0001 sec   305 MBytes   256 Mbits/sec   0.011 ms 25487/243053 (10%)
+[  7] local 10.1.5.22 port 25600 connected with 10.1.5.11 port 52085
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  7] 0.0000-9.9910 sec   344 MBytes   289 Mbits/sec   0.009 ms 26748/272061 (9.8%)
+[  8] local 10.1.5.22 port 25600 connected with 10.1.5.11 port 54615
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  8] 0.0000-9.9978 sec   309 MBytes   259 Mbits/sec   0.012 ms 26127/246572 (11%)
+[  9] local 10.1.5.22 port 25600 connected with 10.1.5.11 port 36234
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  9] 0.0000-10.0039 sec   345 MBytes   289 Mbits/sec   0.009 ms 22287/268362 (8.3%)
