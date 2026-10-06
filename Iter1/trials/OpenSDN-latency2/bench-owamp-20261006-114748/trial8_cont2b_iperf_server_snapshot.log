@@ -1,0 +1,28 @@
+------------------------------------------------------------
+Server listening on UDP port 25600
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 10.1.2.22 port 25600 connected with 10.1.2.11 port 39431
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.0000-10.0023 sec   289 MBytes   243 Mbits/sec   0.010 ms 27046/233307 (12%)
+[  2] local 10.1.2.22 port 25600 connected with 10.1.2.11 port 34833
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  2] 0.0000-10.0024 sec   284 MBytes   238 Mbits/sec   0.013 ms 30306/232901 (13%)
+[  3] local 10.1.2.22 port 25600 connected with 10.1.2.11 port 36196
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-9.9970 sec   300 MBytes   252 Mbits/sec   0.011 ms 36110/250224 (14%)
+[  4] local 10.1.2.22 port 25600 connected with 10.1.2.11 port 35199
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-9.9963 sec   302 MBytes   253 Mbits/sec   0.011 ms 25696/241035 (11%)
+[  5] local 10.1.2.22 port 25600 connected with 10.1.2.11 port 58701
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  5] 0.0000-10.0010 sec   308 MBytes   258 Mbits/sec   0.009 ms 33660/253490 (13%)
+[  6] local 10.1.2.22 port 25600 connected with 10.1.2.11 port 52600
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  6] 0.0000-10.0006 sec   300 MBytes   251 Mbits/sec   0.011 ms 28727/242495 (12%)
+[  7] local 10.1.2.22 port 25600 connected with 10.1.2.11 port 46954
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  7] 0.0000-10.0037 sec   328 MBytes   275 Mbits/sec   0.009 ms 31425/265243 (12%)
+[  8] local 10.1.2.22 port 25600 connected with 10.1.2.11 port 54440
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  8] 0.0000-9.9998 sec   334 MBytes   280 Mbits/sec   0.010 ms 25504/263598 (9.7%)

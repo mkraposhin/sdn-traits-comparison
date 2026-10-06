@@ -1,0 +1,29 @@
+------------------------------------------------------------
+Server listening on UDP port 25600
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 10.1.4.22 port 25600 connected with 10.1.4.11 port 45062
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.0000-9.9989 sec   258 MBytes   216 Mbits/sec   0.013 ms 24260/208229 (12%)
+[  1] 0.0000-9.9989 sec  88 datagrams received out-of-order
+[  2] local 10.1.4.22 port 25600 connected with 10.1.4.11 port 33080
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  2] 0.0000-10.0010 sec   269 MBytes   226 Mbits/sec   0.012 ms 34287/226397 (15%)
+[  3] local 10.1.4.22 port 25600 connected with 10.1.4.11 port 42906
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-9.9979 sec   283 MBytes   238 Mbits/sec   0.013 ms 29508/231615 (13%)
+[  4] local 10.1.4.22 port 25600 connected with 10.1.4.11 port 41262
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-9.9909 sec   320 MBytes   269 Mbits/sec   0.012 ms 27631/256013 (11%)
+[  5] local 10.1.4.22 port 25600 connected with 10.1.4.11 port 33226
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  5] 0.0000-9.9981 sec   303 MBytes   254 Mbits/sec   0.013 ms 28533/244886 (12%)
+[  6] local 10.1.4.22 port 25600 connected with 10.1.4.11 port 50257
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  6] 0.0000-10.0017 sec   277 MBytes   232 Mbits/sec   0.012 ms 30118/227534 (13%)
+[  7] local 10.1.4.22 port 25600 connected with 10.1.4.11 port 49426
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  7] 0.0000-10.0005 sec   306 MBytes   257 Mbits/sec   0.011 ms 34488/252650 (14%)
+[  8] local 10.1.4.22 port 25600 connected with 10.1.4.11 port 33896
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  8] 0.0000-10.0010 sec   293 MBytes   245 Mbits/sec   0.010 ms 35733/244400 (15%)
