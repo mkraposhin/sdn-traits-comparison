@@ -1,0 +1,29 @@
+------------------------------------------------------------
+Server listening on UDP port 25600
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 45043
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.0000-9.9975 sec   313 MBytes   262 Mbits/sec   0.015 ms 11709/234737 (5%)
+[  3] WARNING: ack of last datagram failed.
+[  2] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 38692
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  2] 0.0000-9.9982 sec   284 MBytes   238 Mbits/sec   0.014 ms 22143/224796 (9.9%)
+[  3] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 52392
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-9.9994 sec   320 MBytes   268 Mbits/sec   0.012 ms 15984/244080 (6.5%)
+[  4] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 37465
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-9.9993 sec   324 MBytes   272 Mbits/sec   0.010 ms 20417/251392 (8.1%)
+[  5] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 57191
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  5] 0.0000-9.9973 sec   301 MBytes   253 Mbits/sec   0.012 ms 20319/235354 (8.6%)
+[  6] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 60391
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  6] 0.0000-9.9996 sec   280 MBytes   235 Mbits/sec   0.014 ms 17511/217051 (8.1%)
+[  7] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 57974
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  7] 0.0000-10.0013 sec   337 MBytes   283 Mbits/sec   0.011 ms 11658/252128 (4.6%)
+[  8] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 46811
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  8] 0.0000-9.9951 sec   316 MBytes   266 Mbits/sec   0.010 ms 21772/247457 (8.8%)

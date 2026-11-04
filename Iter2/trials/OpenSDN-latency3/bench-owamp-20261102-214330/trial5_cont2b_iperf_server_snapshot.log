@@ -1,0 +1,19 @@
+------------------------------------------------------------
+Server listening on UDP port 25600
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 10.1.2.22 port 25600 connected with 10.1.2.11 port 48569
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.0000-9.9990 sec   347 MBytes   291 Mbits/sec   0.011 ms 11507/258861 (4.4%)
+[  2] local 10.1.2.22 port 25600 connected with 10.1.2.11 port 47167
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  2] 0.0000-9.9990 sec   355 MBytes   298 Mbits/sec   0.009 ms 22578/275904 (8.2%)
+[  3] local 10.1.2.22 port 25600 connected with 10.1.2.11 port 49470
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-10.0008 sec   349 MBytes   293 Mbits/sec   0.009 ms 25561/274564 (9.3%)
+[  4] local 10.1.2.22 port 25600 connected with 10.1.2.11 port 58584
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-10.0004 sec   347 MBytes   291 Mbits/sec   0.010 ms 17918/265779 (6.7%)
+[  5] local 10.1.2.22 port 25600 connected with 10.1.2.11 port 47495
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  5] 0.0000-10.0000 sec   321 MBytes   269 Mbits/sec   0.010 ms 23317/251962 (9.3%)

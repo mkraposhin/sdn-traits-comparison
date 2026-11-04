@@ -1,0 +1,12 @@
+------------------------------------------------------------
+Client connecting to 10.1.1.22, UDP port 25600
+Sending 1470 byte datagrams, IPG target: 10.95 us (kalman adjust)
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 10.1.1.11 port 35188 connected with 10.1.1.22 port 25600
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0000 sec   879 MBytes   738 Mbits/sec
+[  1] Sent 627150 datagrams
+[  1] Server Report:
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.0000-10.0000 sec   878 MBytes   737 Mbits/sec   0.001 ms 583/627149 (0.093%)

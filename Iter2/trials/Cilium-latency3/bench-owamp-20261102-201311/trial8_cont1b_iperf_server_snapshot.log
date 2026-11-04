@@ -1,0 +1,28 @@
+------------------------------------------------------------
+Server listening on UDP port 25600
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 56986
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.0000-9.9993 sec   434 MBytes   364 Mbits/sec   0.005 ms 20042/329801 (6.1%)
+[  2] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 54400
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  2] 0.0000-9.9983 sec   406 MBytes   341 Mbits/sec   0.006 ms 27843/317677 (8.8%)
+[  3] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 51603
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-9.9976 sec   414 MBytes   347 Mbits/sec   0.006 ms 26370/321566 (8.2%)
+[  4] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 41300
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-10.0009 sec   405 MBytes   340 Mbits/sec   0.006 ms 32946/322048 (10%)
+[  5] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 43388
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  5] 0.0000-9.9997 sec   374 MBytes   314 Mbits/sec   0.006 ms 22993/289931 (7.9%)
+[  6] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 47951
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  6] 0.0000-9.9992 sec   380 MBytes   319 Mbits/sec   0.007 ms 19007/289967 (6.6%)
+[  7] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 33298
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  7] 0.0000-10.0006 sec   374 MBytes   314 Mbits/sec   0.007 ms 17756/284529 (6.2%)
+[  8] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 40420
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  8] 0.0000-10.0030 sec   409 MBytes   343 Mbits/sec   0.006 ms 24961/317004 (7.9%)

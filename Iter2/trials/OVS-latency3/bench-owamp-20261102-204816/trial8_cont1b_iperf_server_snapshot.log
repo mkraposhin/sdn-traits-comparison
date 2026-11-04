@@ -1,0 +1,30 @@
+------------------------------------------------------------
+Server listening on UDP port 25600
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 41795
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.0000-9.9988 sec  1.04 GBytes   897 Mbits/sec   0.001 ms 615/762902 (0.081%)
+[  1] 0.0000-9.9988 sec  102 datagrams received out-of-order
+[  2] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 40985
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  2] 0.0000-10.0000 sec  1.03 GBytes   881 Mbits/sec   0.001 ms 757/749709 (0.1%)
+[  3] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 51658
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-10.0000 sec  1.00 GBytes   863 Mbits/sec   0.001 ms 494/734199 (0.067%)
+[  3] WARNING: ack of last datagram failed.
+[  4] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 58720
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-10.0000 sec  1024 MBytes   859 Mbits/sec   0.001 ms 1239/731429 (0.17%)
+[  5] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 44761
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  5] 0.0000-10.0000 sec  1.02 GBytes   878 Mbits/sec   0.001 ms 1007/747608 (0.13%)
+[  6] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 49963
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  6] 0.0000-10.0000 sec  1.02 GBytes   880 Mbits/sec   0.001 ms 439/748657 (0.059%)
+[  7] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 54849
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  7] 0.0000-9.9997 sec  1.00 GBytes   860 Mbits/sec   0.001 ms 843/731804 (0.12%)
+[  8] local 10.1.1.22 port 25600 connected with 10.1.1.11 port 32926
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  8] 0.0000-10.0000 sec  1024 MBytes   859 Mbits/sec   0.001 ms 828/731224 (0.11%)

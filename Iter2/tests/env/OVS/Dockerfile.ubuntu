@@ -1,0 +1,54 @@
+# Dockerfile.ubuntu
+# Pinned to Ubuntu 22.04.5 LTS (Jammy Jellyfish).
+# Installs testing tools NOW, while the build has internet access, since
+# containers built from this image are later run with restricted or
+# isolated networking (--net=none + a manually-attached veth for the OVS
+# setup, or a vRouter Forwarder-attached veth for the OpenSDN setup) and
+# won't reliably be able to reach the internet afterwards to install
+# anything.
+
+FROM ubuntu:22.04
+
+# --- bootstrap ---------------------------------------------------------
+# owamp (owping/owampd) is NOT packaged in stock Ubuntu jammy at all -
+# verified against packages.ubuntu.com (main/universe/restricted/
+# multiverse all searched, zero matches) and confirmed by the earlier
+# build failure ("Unable to locate package owamp-client/owamp-server").
+# It's only available via perfSONAR's own apt repo, added below - so we
+# need curl/gnupg/software-properties-common installed first, before that
+# repo can be added.
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+        ca-certificates \
+        curl \
+        gnupg \
+        software-properties-common \
+    && rm -rf /var/lib/apt/lists/*
+
+# --- perfSONAR repo (owamp source) --------------------------------------
+# NOTE: owamp-client / owamp-server are the package names perfSONAR's own
+# docs reference for their bundles - NOT independently confirmed against
+# their repo's actual Packages index (I couldn't fetch it cleanly from
+# here). If the next RUN step below fails with "Unable to locate package"
+# again, run this same block manually up through 'apt-get update', then
+# `apt-cache search owamp` inside a container from the partial image, and
+# tell me the real name(s) it prints so I can fix the line below.
+RUN curl -fsSL -o /etc/apt/sources.list.d/perfsonar-release.list \
+        https://downloads.perfsonar.net/debian/perfsonar-release.list && \
+    curl -fsSL -o /etc/apt/trusted.gpg.d/perfsonar-release.gpg.asc \
+        https://downloads.perfsonar.net/debian/perfsonar-release.gpg.key && \
+    add-apt-repository -y universe && \
+    apt-get update
+
+# --- everything else, plus owamp ----------------------------------------
+RUN apt-get install -y --no-install-recommends \
+        iproute2 \
+        iputils-ping \
+        iperf \
+        netcat-openbsd \
+        owamp-client \
+        owamp-server \
+        vim \
+    && rm -rf /var/lib/apt/lists/*
+
+CMD ["sleep", "infinity"]

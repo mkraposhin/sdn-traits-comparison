@@ -1,0 +1,28 @@
+------------------------------------------------------------
+Server listening on UDP port 25600
+UDP buffer size:  208 KByte (default)
+------------------------------------------------------------
+[  1] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 58299
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.0000-9.9996 sec   888 MBytes   745 Mbits/sec   0.001 ms 1066/634724 (0.17%)
+[  2] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 51786
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  2] 0.0000-9.9998 sec   901 MBytes   756 Mbits/sec   0.001 ms 374/643294 (0.058%)
+[  3] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 39897
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-10.0000 sec   923 MBytes   774 Mbits/sec   0.001 ms 384/658920 (0.058%)
+[  4] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 58065
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-10.0000 sec   894 MBytes   750 Mbits/sec   0.001 ms 606/638147 (0.095%)
+[  5] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 43548
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  5] 0.0000-10.0000 sec   900 MBytes   755 Mbits/sec   0.001 ms 946/642857 (0.15%)
+[  6] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 51828
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  6] 0.0000-10.0000 sec   909 MBytes   762 Mbits/sec   0.001 ms 570/648870 (0.088%)
+[  7] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 49733
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  7] 0.0000-10.0000 sec   910 MBytes   763 Mbits/sec   0.001 ms 941/649810 (0.14%)
+[  8] local 10.42.0.57 port 25600 connected with 10.42.0.161 port 48080
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  8] 0.0000-9.9997 sec   895 MBytes   751 Mbits/sec   0.001 ms 512/638762 (0.08%)

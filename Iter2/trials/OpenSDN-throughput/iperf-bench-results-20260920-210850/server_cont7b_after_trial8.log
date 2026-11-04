@@ -1,0 +1,28 @@
+------------------------------------------------------------
+Server listening on UDP port 25600
+UDP buffer size: 25.0 MByte (default)
+------------------------------------------------------------
+[  1] local 10.1.7.22 port 25600 connected with 10.1.7.11 port 51960
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  1] 0.0000-9.9988 sec   530 MBytes   445 Mbits/sec   0.000 ms 0/378278 (0%)
+[  2] local 10.1.7.22 port 25600 connected with 10.1.7.11 port 60469
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  2] 0.0000-9.9959 sec   525 MBytes   440 Mbits/sec   0.000 ms 0/374277 (0%)
+[  3] local 10.1.7.22 port 25600 connected with 10.1.7.11 port 57803
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  3] 0.0000-9.9952 sec   513 MBytes   430 Mbits/sec   0.003 ms 0/365603 (0%)
+[  4] local 10.1.7.22 port 25600 connected with 10.1.7.11 port 44373
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  4] 0.0000-9.9986 sec   562 MBytes   472 Mbits/sec   0.001 ms 0/400981 (0%)
+[  5] local 10.1.7.22 port 25600 connected with 10.1.7.11 port 54689
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  5] 0.0000-9.9989 sec   516 MBytes   433 Mbits/sec   0.000 ms 0/368256 (0%)
+[  6] local 10.1.7.22 port 25600 connected with 10.1.7.11 port 46674
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  6] 0.0000-9.9983 sec   539 MBytes   452 Mbits/sec   0.000 ms 0/384274 (0%)
+[  7] local 10.1.7.22 port 25600 connected with 10.1.7.11 port 55445
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  7] 0.0000-9.9952 sec   504 MBytes   423 Mbits/sec   0.000 ms 0/359778 (0%)
+[  8] local 10.1.7.22 port 25600 connected with 10.1.7.11 port 52642
+[ ID] Interval       Transfer     Bandwidth        Jitter   Lost/Total Datagrams
+[  8] 0.0000-9.9989 sec   554 MBytes   465 Mbits/sec   0.002 ms 0/395520 (0%)
